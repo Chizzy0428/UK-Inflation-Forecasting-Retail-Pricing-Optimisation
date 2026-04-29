@@ -1,7 +1,7 @@
 # UK-Inflation-Forecasting-Retail-Pricing-Optimisation
 ## Overview
 
-Retail businesses operate under constant pressure from macroeconomic volatility. This project addresses that challenge directly — combining **inflation forecasting** with **pricing optimisation** to give retailers a data-driven approach to protecting margins and stabilising revenue.
+Retail businesses operate under constant pressure from macroeconomic volatility. This project addresses that challenge directly, combining **inflation forecasting** with **pricing optimisation** to give retailers a data-driven approach to protecting margins and stabilising revenue.
 
 The pipeline ingests four macroeconomic datasets, engineers time-series features, trains and benchmarks three ML models, then feeds the best-performing forecasts into a pricing layer that simulates low, expected, and high inflation scenarios.
 
